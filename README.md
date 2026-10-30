@@ -4,26 +4,6 @@ I build evaluation infrastructure and machine-learning research tools.
 I'm interested in making model behavior measurable, reproducible, and easier
 to inspect.
 
-## Current open-source work
-
-### Staccato: offline speech-transcript evaluation
-
-A new contribution to the evaluation tooling around
-[Microsoft's Staccato speech-recognition pipeline](https://github.com/microsoft/Staccato-Stuttered-ASR):
-
-- CPU-only comparison of saved baseline and refined transcripts.
-- Explicit intended-message versus verbatim reference contracts.
-- Corpus word error rate, per-example regressions, and paired latency/cost coverage.
-- Strict input validation, 33 regression tests, and passing Linux/Windows CI.
-
-[Contribution PR #29](https://github.com/microsoft/Staccato-Stuttered-ASR/pull/29)
-is open for upstream review.
-[Code and usage](https://github.com/nicholas-yi/Staccato-Stuttered-ASR/blob/main/docs/offline-evaluation.md)
-| [CI](https://github.com/nicholas-yi/Staccato-Stuttered-ASR/actions/runs/41087232339)
-
-The included examples are synthetic tests, not model-performance claims.
-The existing Staccato architecture remains credited to its original authors.
-
 ## Competition results
 
 | Competition | Historical result | Public record |
