@@ -1,16 +1,14 @@
-# Nicholas Yi
+```text
+  '  ,  |  .   '  |   ,   .  '
+ .   |  '   ,  .   '  |   '
+   ,   .  |   '  .   ,   .  |
+```
 
-I build evaluation infrastructure and machine-learning research tools.
-I'm interested in making model behavior measurable, reproducible, and easier
-to inspect.
+# hi, i'm nicholas
 
-## Competition results
+i build eval infra and ml research tools at microsoft
+mostly looking at one question: *is our model actually getting better, and how would we know?*
 
-| Competition | Historical result | Public record |
-|---|---|---|
-| Hateful Memes Challenge: Phase 2 (2020) | 18th place, as `nickyi` | [DrivenData leaderboard](https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/#leaderRow_151286) |
-| Kuzushiji Recognition (2019) | 17th of 293 teams, as `nicholasyi` | [Kaggle competition profile](https://www.kaggle.com/nicholasyi/competitions) |
+lately: agent harnesses, post-training, and helping agents remember things (politely)
 
-[Competition record and reproduction notes](notes/competition-record.md)
-separate those historical results from other authors' reference implementations
-and any future reproduction work.
+<sub>let it rain. make yourself at home → [nicholasyi.me](https://nicholasyi.me)</sub>
