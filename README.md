@@ -1,8 +1,11 @@
-```text
-  '  ,  |  .   '  |   ,   .  '
- .   |  '   ,  .   '  |   '
-   ,   .  |   '  .   ,   .  |
-```
+<a href="https://nicholasyi.me">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/rain-dark.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/rain-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rain-dark.gif">
+    <img src="assets/rain-light.gif" width="100%" alt="A quiet band of ASCII rain. Visit nicholasyi.me.">
+  </picture>
+</a>
 
 # hi, i'm nicholas
 
