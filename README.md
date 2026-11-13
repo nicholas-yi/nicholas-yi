@@ -15,6 +15,4 @@ mostly looking at one question: *is our model actually getting better, and how w
 
 lately: agent harnesses, post-training, and helping agents remember things (politely) via persisted knowledge/inference layering
 
-[x / @nicholasyi2](https://x.com/nicholasyi2)
-
 <sub>let it rain. make yourself at home → [nicholasyi.me](https://nicholasyi.me)</sub>
